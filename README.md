@@ -1,1 +1,1 @@
-# mangalorepubliccolleges
+# mangalorepublicschools

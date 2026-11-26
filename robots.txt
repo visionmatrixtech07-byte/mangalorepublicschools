@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mangalorepublicpreuniversitycolleges.com/sitemap.xml
+Sitemap: https://mangalorepublicschools.com/sitemap.xml
